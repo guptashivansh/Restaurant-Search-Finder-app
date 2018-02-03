@@ -3,7 +3,6 @@
 bin/
 include/
 pip-selfcheck.json
-requirements.txt
 tcl/
 Scripts/
 
