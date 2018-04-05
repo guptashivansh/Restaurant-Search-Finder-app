@@ -1,4 +1,4 @@
-# trydjango1.11
+# Restaurant Search Finder app
 Python Web development
 
 A restaurant search finder which allows us to search from a list of restaurants, 
